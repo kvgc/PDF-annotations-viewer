@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=bash /home/keerthi/.local/share/applications/pdfHandler.sh %U
+Name=pdf url handler
+Comment=Custom pdf opening routine
+Icon=
